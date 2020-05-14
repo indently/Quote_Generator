@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun typeText(text: String) {
         mainText=""
-        val textDelay: Long = 50L
+        val textDelay = 50L
 
         GlobalScope.launch(Dispatchers.IO) {
             val sb = StringBuilder()
