@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quote Generator</string>
+
+    <string name="quote_string">“Despite my ghoulish reputation, I really have the heart of a small boy. I keep it in a jar on my desk.”
+        <b>\n\n– Robert Bloch</b>
+    </string>
+
+    <string name="quote_string2">“I envy people that know love. That have someone who takes them as they are.”
+        <b>\n\n– Jess C Scott, The Devilin Fey</b>
+    </string>
+
+    <string name="quote_string3">“What\'s the whole point of being pretty on the outside when you’re so ugly on the inside?”
+        <b>\n\n– Jess C. Scott</b>
+    </string>
+
+    <string name="quote_string4">“Build a man a fire, and he\'ll be warm for a day. Set a man on fire, and he\'ll be warm for the rest of his life.”
+        <b>\n\n– Terry Pratchett</b>
+    </string>
+
+    <string name="quote_string5">“I know a man who gave up smoking, drinking, sex, and rich food. He was healthy right up to the day he killed himself.”
+        <b>\n\n– Johnny Carson</b>
+    </string>
+
+    <string name="quote_string6">“When I die, I want to die like my grandfather who died peacefully in his sleep. Not screaming like all the passengers in his car.”
+        <b>\n\n– Will Rogers</b>
+    </string>
+
+    <string name="quote_string7">“How much is real and for how long?”
+        <b>\n\n– J. Limbu</b>
+    </string>
+</resources>
